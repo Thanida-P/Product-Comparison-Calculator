@@ -1,6 +1,5 @@
 # Product-Comparison-Calculator
 
-Description:
 The Price Comparison Calculator is a Python-based project developed during the first-year semester 1 as part of coursework or individual project assignment. The primary goal of this application is to facilitate users in comparing prices of products across different platforms or stores. It aims to provide a simple yet effective tool for consumers to make informed purchasing decisions by easily identifying the best deals available.
 
 Features:
